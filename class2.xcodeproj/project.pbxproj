@@ -13,6 +13,7 @@
 		3645EE9E24609DD400D399B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3645EE9D24609DD400D399B3 /* Assets.xcassets */; };
 		3645EEA124609DD400D399B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3645EEA024609DD400D399B3 /* Preview Assets.xcassets */; };
 		3645EEA424609DD400D399B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3645EEA224609DD400D399B3 /* LaunchScreen.storyboard */; };
+		3645EEAC2460ACBA00D399B3 /* detail2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3645EEAB2460ACB900D399B3 /* detail2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3645EEA024609DD400D399B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3645EEA324609DD400D399B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3645EEA524609DD400D399B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3645EEAB2460ACB900D399B3 /* detail2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detail2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3645EE9724609DD200D399B3 /* AppDelegate.swift */,
 				3645EE9924609DD200D399B3 /* SceneDelegate.swift */,
 				3645EE9B24609DD200D399B3 /* ContentView.swift */,
+				3645EEAB2460ACB900D399B3 /* detail2.swift */,
 				3645EE9D24609DD400D399B3 /* Assets.xcassets */,
 				3645EEA224609DD400D399B3 /* LaunchScreen.storyboard */,
 				3645EEA524609DD400D399B3 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3645EE9824609DD200D399B3 /* AppDelegate.swift in Sources */,
+				3645EEAC2460ACBA00D399B3 /* detail2.swift in Sources */,
 				3645EE9A24609DD200D399B3 /* SceneDelegate.swift in Sources */,
 				3645EE9C24609DD200D399B3 /* ContentView.swift in Sources */,
 			);
